@@ -1,3 +1,2 @@
-Documentacion
-
-Este es el README de la aplicacion.
+Nombre: Lautaro Sagula
+N° de alumno: 13711/8
