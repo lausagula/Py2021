@@ -73,7 +73,6 @@ def displayBoard(missedLetters, correctLetters, secretWord):
     #blanks = '_' * len(secretWord)
     blanks = secretWord[0] + '_' * (len(secretWord)-2) + secretWord[-1] 
 
-    # ------>  ? ? ?  
 
     for i in range(1,(len(secretWord)-1)): # replace blanks with correctly guessed letters
         if secretWord[i] in correctLetters:
