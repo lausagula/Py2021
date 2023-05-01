@@ -1,0 +1,165 @@
+Tiempo,Partida,Cantidad total de palabras a adivinar,Nombre de evento,usuarie -nick,Usuarie -genero,usuarie -edad,Estado,Palabra,nivel
+1624779857,1,8,Inicio Partida,lau,Masculino,43,,,Nivel 2
+1624779858,1,8,intento,lau,Masculino,43,error,Volkswagen,Nivel 2
+1624779860,1,8,intento,lau,Masculino,43,error,Mercedes-Benz,Nivel 2
+1624779862,1,8,intento,lau,Masculino,43,error,Hyundai,Nivel 2
+1624779864,1,8,intento,lau,Masculino,43,ok,Mercedes-Benz,Nivel 2
+1624779866,1,8,intento,lau,Masculino,43,error,Hyundai,Nivel 2
+1624779868,1,8,intento,lau,Masculino,43,error,Chrysler,Nivel 2
+1624779870,1,8,intento,lau,Masculino,43,ok,Ford,Nivel 2
+1624779871,1,8,intento,lau,Masculino,43,error,Chrysler,Nivel 2
+1624779873,1,8,intento,lau,Masculino,43,ok,Chrysler,Nivel 2
+1624779875,1,8,intento,lau,Masculino,43,ok,Toyota,Nivel 2
+1624779876,1,8,intento,lau,Masculino,43,ok,Volkswagen,Nivel 2
+1624779877,1,8,intento,lau,Masculino,43,ok,Hyundai,Nivel 2
+1624779879,1,8,Fin,lau,Masculino,43,Finalizada,Hyundai,Nivel 2
+1624779886,2,4,Inicio Partida,lau,Masculino,43,,,Nivel 1
+1624779887,2,4,intento,lau,Masculino,43,ok,Mercedes-Benz,Nivel 1
+1624779888,2,4,intento,lau,Masculino,43,error,Volkswagen,Nivel 1
+1624779890,2,4,intento,lau,Masculino,43,error,Volkswagen,Nivel 1
+1624779892,2,4,intento,lau,Masculino,43,ok,Volkswagen,Nivel 1
+1624779893,2,4,intento,lau,Masculino,43,ok,Hyundai,Nivel 1
+1624779894,2,4,intento,lau,Masculino,43,ok,Chrysler,Nivel 1
+1624779895,2,4,Fin,lau,Masculino,43,Finalizada,Chrysler,Nivel 1
+1624779904,3,8,Inicio Partida,lau,Masculino,43,,,Nivel 3
+1624779905,3,8,intento,lau,Masculino,43,error,Mercedes-Benz,Nivel 3
+1624779907,3,8,intento,lau,Masculino,43,error,Ford,Nivel 3
+1624779910,3,8,intento,lau,Masculino,43,error,Toyota,Nivel 3
+1624779912,3,8,intento,lau,Masculino,43,ok,Chrysler,Nivel 3
+1624779914,3,8,intento,lau,Masculino,43,error,Volkswagen,Nivel 3
+1624779917,3,8,intento,lau,Masculino,43,ok,Mercedes-Benz,Nivel 3
+1624779918,3,8,intento,lau,Masculino,43,error,Volkswagen,Nivel 3
+1624779920,3,8,intento,lau,Masculino,43,ok,Volkswagen,Nivel 3
+1624779922,3,8,intento,lau,Masculino,43,error,Kia,Nivel 3
+1624779924,3,8,intento,lau,Masculino,43,ok,Kia,Nivel 3
+1624779925,3,8,intento,lau,Masculino,43,error,Hyundai,Nivel 3
+1624779927,3,8,intento,lau,Masculino,43,ok,Volvo,Nivel 3
+1624779929,3,8,intento,lau,Masculino,43,ok,Hyundai,Nivel 3
+1624779931,3,8,intento,lau,Masculino,43,error,Toyota,Nivel 3
+1624779934,3,8,intento,lau,Masculino,43,ok,Ford,Nivel 3
+1624779935,3,8,intento,lau,Masculino,43,ok,Toyota,Nivel 3
+1624779936,3,8,Fin,lau,Masculino,43,Finalizada,Toyota,Nivel 3
+1624779949,4,6,Inicio Partida,lau,Masculino,43,,,Nivel 4
+1624779952,4,6,intento,lau,Masculino,43,error,parel/35432.png,Nivel 4
+1624779954,4,6,intento,lau,Masculino,43,error,parel/37632.png,Nivel 4
+1624779956,4,6,intento,lau,Masculino,43,ok,parel/35432.png,Nivel 4
+1624779958,4,6,intento,lau,Masculino,43,error,parel/38285.png,Nivel 4
+1624779961,4,6,intento,lau,Masculino,43,error,parel/34091.png,Nivel 4
+1624779963,4,6,intento,lau,Masculino,43,ok,parel/43694.png,Nivel 4
+1624779966,4,6,intento,lau,Masculino,43,error,parel/34091.png,Nivel 4
+1624779969,4,6,intento,lau,Masculino,43,ok,parel/38285.png,Nivel 4
+1624779971,4,6,intento,lau,Masculino,43,ok,parel/18178.png,Nivel 4
+1624779973,4,6,intento,lau,Masculino,43,ok,parel/37632.png,Nivel 4
+1624779975,4,6,intento,lau,Masculino,43,ok,parel/34091.png,Nivel 4
+1624779977,4,6,Fin,lau,Masculino,43,Finalizada,parel/34091.png,Nivel 4
+1624779991,5,8,Inicio Partida,lau,Masculino,43,,,Nivel 5
+1624779993,5,8,intento,lau,Masculino,43,error,altaria.png,Nivel 5
+1624779995,5,8,intento,lau,Masculino,43,error,salamence.png,Nivel 5
+1624779998,5,8,intento,lau,Masculino,43,ok,dragonite.png,Nivel 5
+1624779999,5,8,intento,lau,Masculino,43,error,latias.png,Nivel 5
+1624780002,5,8,intento,lau,Masculino,43,ok,shelgon.png,Nivel 5
+1624780004,5,8,intento,lau,Masculino,43,error,dratini.png,Nivel 5
+1624780007,5,8,intento,lau,Masculino,43,ok,altaria.png,Nivel 5
+1624780008,5,8,intento,lau,Masculino,43,error,bagon.png,Nivel 5
+1624780011,5,8,intento,lau,Masculino,43,ok,latias.png,Nivel 5
+1624780013,5,8,intento,lau,Masculino,43,ok,dratini.png,Nivel 5
+1624780016,5,8,intento,lau,Masculino,43,error,bagon.png,Nivel 5
+1624780019,5,8,intento,lau,Masculino,43,ok,dragonair.png,Nivel 5
+1624780021,5,8,intento,lau,Masculino,43,ok,salamence.png,Nivel 5
+1624780024,5,8,intento,lau,Masculino,43,ok,bagon.png,Nivel 5
+1624780025,5,8,Fin,lau,Masculino,43,Finalizada,bagon.png,Nivel 5
+1624850501,6,8,Inicio Partida,lau,Masculino,43,,,Nivel 5
+1624850503,6,8,intento,lau,Masculino,43,error,shelgon.png,Nivel 5
+1624850505,6,8,intento,lau,Masculino,43,error,salamence.png,Nivel 5
+1624850507,6,8,intento,lau,Masculino,43,ok,dragonair.png,Nivel 5
+1624850509,6,8,intento,lau,Masculino,43,error,bagon.png,Nivel 5
+1624850511,6,8,intento,lau,Masculino,43,ok,salamence.png,Nivel 5
+1624850513,6,8,intento,lau,Masculino,43,error,altaria.png,Nivel 5
+1624850516,6,8,intento,lau,Masculino,43,error,shelgon.png,Nivel 5
+1624850518,6,8,intento,lau,Masculino,43,ok,shelgon.png,Nivel 5
+1624850519,6,8,intento,lau,Masculino,43,error,dratini.png,Nivel 5
+1624850522,6,8,intento,lau,Masculino,43,error,altaria.png,Nivel 5
+1624850524,6,8,intento,lau,Masculino,43,ok,bagon.png,Nivel 5
+1624850526,6,8,intento,lau,Masculino,43,error,dratini.png,Nivel 5
+1624850529,6,8,intento,lau,Masculino,43,error,latias.png,Nivel 5
+1624850531,6,8,intento,lau,Masculino,43,ok,altaria.png,Nivel 5
+1624850533,6,8,intento,lau,Masculino,43,ok,latias.png,Nivel 5
+1624850534,6,8,intento,lau,Masculino,43,ok,dratini.png,Nivel 5
+1624850536,6,8,intento,lau,Masculino,43,ok,dragonite.png,Nivel 5
+1624850541,6,8,Fin,lau,Masculino,43,Finalizada,dragonite.png,Nivel 5
+1624850556,7,6,Inicio Partida,lau,Masculino,43,,,Nivel 4
+1624850559,7,6,intento,lau,Masculino,43,error,parel/34157.png,Nivel 4
+1624850561,7,6,intento,lau,Masculino,43,error,parel/43691.png,Nivel 4
+1624850563,7,6,intento,lau,Masculino,43,ok,parel/34157.png,Nivel 4
+1624850565,7,6,intento,lau,Masculino,43,ok,parel/43691.png,Nivel 4
+1624850567,7,6,intento,lau,Masculino,43,error,parel/41995.png,Nivel 4
+1624850569,7,6,intento,lau,Masculino,43,ok,parel/41995.png,Nivel 4
+1624850571,7,6,intento,lau,Masculino,43,error,parel/43042.png,Nivel 4
+1624850573,7,6,intento,lau,Masculino,43,ok,parel/42592.png,Nivel 4
+1624850574,7,6,intento,lau,Masculino,43,ok,parel/5418.png,Nivel 4
+1624850576,7,6,intento,lau,Masculino,43,ok,parel/43042.png,Nivel 4
+1624850577,7,6,Fin,lau,Masculino,43,Finalizada,parel/43042.png,Nivel 4
+1625107962,8,8,Inicio Partida,Sandra,No binario,24,,,Nivel 2
+1625107963,8,8,intento,Sandra,No binario,24,error,alonso,Nivel 2
+1625107965,8,8,intento,Sandra,No binario,24,ok,sala,Nivel 2
+1625107967,8,8,intento,Sandra,No binario,24,error,alonso,Nivel 2
+1625107968,8,8,intento,Sandra,No binario,24,ok,alonso,Nivel 2
+1625107970,8,8,intento,Sandra,No binario,24,error,campos,Nivel 2
+1625107973,8,8,intento,Sandra,No binario,24,ok,rosa,Nivel 2
+1625107976,8,8,intento,Sandra,No binario,24,ok,alguersuari,Nivel 2
+1625107978,8,8,intento,Sandra,No binario,24,error,campos,Nivel 2
+1625107980,8,8,intento,Sandra,No binario,24,ok,gene,Nivel 2
+1625107982,8,8,intento,Sandra,No binario,24,ok,campos,Nivel 2
+1625107983,8,8,Fin,Sandra,No binario,24,Finalizada,campos,Nivel 2
+1625108013,9,8,Inicio Partida,Sandra,No binario,24,,,Nivel 5
+1625108014,9,8,intento,Sandra,No binario,24,error,dratini.png,Nivel 5
+1625108017,9,8,intento,Sandra,No binario,24,ok,latias.png,Nivel 5
+1625108019,9,8,intento,Sandra,No binario,24,ok,dratini.png,Nivel 5
+1625108021,9,8,intento,Sandra,No binario,24,error,dragonair.png,Nivel 5
+1625108023,9,8,intento,Sandra,No binario,24,ok,dragonite.png,Nivel 5
+1625108025,9,8,intento,Sandra,No binario,24,error,bagon.png,Nivel 5
+1625108028,9,8,intento,Sandra,No binario,24,error,altaria.png,Nivel 5
+1625108031,9,8,intento,Sandra,No binario,24,ok,salamence.png,Nivel 5
+1625108033,9,8,intento,Sandra,No binario,24,ok,altaria.png,Nivel 5
+1625108037,9,8,intento,Sandra,No binario,24,error,dragonair.png,Nivel 5
+1625108040,9,8,intento,Sandra,No binario,24,ok,dragonair.png,Nivel 5
+1625108042,9,8,intento,Sandra,No binario,24,ok,bagon.png,Nivel 5
+1625108043,9,8,intento,Sandra,No binario,24,ok,shelgon.png,Nivel 5
+1625108044,9,8,Fin,Sandra,No binario,24,Finalizada,shelgon.png,Nivel 5
+1625140998,10,6,Inicio Partida,lau,Masculino,43,,,Nivel 4
+1625141002,10,6,intento,lau,Masculino,43,error,parel/35442.png,Nivel 4
+1625141004,10,6,intento,lau,Masculino,43,ok,parel/35442.png,Nivel 4
+1625141006,10,6,intento,lau,Masculino,43,error,parel/31174.png,Nivel 4
+1625141008,10,6,intento,lau,Masculino,43,error,parel/39852.png,Nivel 4
+1625141011,10,6,intento,lau,Masculino,43,ok,parel/40995.png,Nivel 4
+1625141013,10,6,intento,lau,Masculino,43,ok,parel/39852.png,Nivel 4
+1625141024,10,6,intento,lau,Masculino,43,error,parel/40161.png,Nivel 4
+1625141026,10,6,intento,lau,Masculino,43,ok,parel/40161.png,Nivel 4
+1625141028,10,6,intento,lau,Masculino,43,error,parel/31174.png,Nivel 4
+1625141031,10,6,intento,lau,Masculino,43,ok,parel/31174.png,Nivel 4
+1625141032,10,6,intento,lau,Masculino,43,ok,parel/2728.png,Nivel 4
+1625141034,10,6,Fin,lau,Masculino,43,Finalizada,parel/2728.png,Nivel 4
+1625141046,11,8,Inicio Partida,lau,Masculino,43,,,Nivel 2
+1625141048,11,8,intento,lau,Masculino,43,error,Berkshire Hathaway,Nivel 2
+1625141049,11,8,intento,lau,Masculino,43,ok,Berkshire Hathaway,Nivel 2
+1625141051,11,8,intento,lau,Masculino,43,error,retail,Nivel 2
+1625141055,11,8,intento,lau,Masculino,43,error,retail,Nivel 2
+1625141058,11,8,intento,lau,Masculino,43,ok,retail,Nivel 2
+1625141059,11,8,intento,lau,Masculino,43,error,"mining, banking",Nivel 2
+1625141061,11,8,intento,lau,Masculino,43,ok,real estate,Nivel 2
+1625141063,11,8,intento,lau,Masculino,43,ok,"mining, banking",Nivel 2
+1625141065,11,8,intento,lau,Masculino,43,ok,insurance,Nivel 2
+1625141066,11,8,intento,lau,Masculino,43,ok,"palm oil, shipping, property",Nivel 2
+1625141068,11,8,Fin,lau,Masculino,43,Finalizada,"palm oil, shipping, property",Nivel 2
+1625141082,12,8,Inicio Partida,lau,Masculino,43,,,Nivel 2
+1625141092,12,8,Fin,lau,Masculino,43,timeout,,Nivel 2
+1625141148,13,8,Inicio Partida,lau,Masculino,43,,,Nivel 2
+1625141148,13,8,Fin,lau,Masculino,43,abandonada,,Nivel 2
+1625141208,14,4,Inicio Partida,Lau,Prefieron no decir,45,,,Nivel 1
+1625141211,14,4,intento,Lau,Prefieron no decir,45,error,"mining, banking",Nivel 1
+1625141213,14,4,intento,Lau,Prefieron no decir,45,error,"mining, banking",Nivel 1
+1625141215,14,4,intento,Lau,Prefieron no decir,45,ok,"mining, banking",Nivel 1
+1625141216,14,4,intento,Lau,Prefieron no decir,45,ok,"palm oil, shipping, property",Nivel 1
+1625141217,14,4,intento,Lau,Prefieron no decir,45,ok,insurance,Nivel 1
+1625141219,14,4,intento,Lau,Prefieron no decir,45,ok,Berkshire Hathaway,Nivel 1
+1625141220,14,4,Fin,Lau,Prefieron no decir,45,Finalizada,Berkshire Hathaway,Nivel 1
